@@ -6,7 +6,7 @@ class WeatherList extends Component {
 	renderWeather() {
 			return this.props.weather.map((cityData) => {
 			return (
-			<tr>
+			<tr key={cityData.city.name}>
 				<td>{cityData.city.name}</td>
 			</tr>
 				)
@@ -30,7 +30,6 @@ class WeatherList extends Component {
 			</table>
 		);
 	}
-
 }
 
 function mapStateToProps(state){
