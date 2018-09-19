@@ -11,10 +11,10 @@ weather_and_map_project_using_react_redux_with_charts_and_Googlemaps
 #This screenshot shows how the site looks when just loaded with no search term.
 <img src="images/screenshot before search term has been entered.png">
 
-#This screenshot shows how the site looks When the first search term is entered with charts and maps displayed.
+#This screenshot shows how the site looks when the first search term is entered with charts and maps displayed.
 <img src="images/screenshot when New York was entered as a search term.png">
 
-#This screenshot shows how the site looks When the second search term is entered with charts and maps displayed.
+#This screenshot shows how the site looks when the second search term is entered with charts and maps displayed.
 <img src="images/screenshot when 2nd search term is entered Las Vegas">
 
 #This screenshot shows how the site looks when the third search term is entered with charts and maps displayed.
