@@ -21,7 +21,7 @@ weather_and_map_project_using_react_redux_with_charts_and_Googlemaps
 <img src="images/screenshot when 3rd search term was entered California.png">
 
 #This screenshot shows Google Maps satellite view is working correctly.
-<img src="images/screenshot showing satellite view is working on maps">
+<img src="images/screenshot showing satellite view is working on maps.png">
 
 #This screenshot is a second image showing Google Maps satellite view is working correctly.
-<img src="images/2nd screenshot showing satellite view working in maps">
+<img src="images/2nd screenshot showing satellite view working in maps.png">
