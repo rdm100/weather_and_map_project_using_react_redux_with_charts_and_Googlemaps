@@ -1,4 +1,4 @@
-weather_and_map_project_using_react_redux_with_charts_and_Googlemaps
+##Weather and map project using react redux with charts and Googlemaps
 
 #I created an app that displays the weather information for the city you search for in charts and shows the location on Google Maps. 
 
