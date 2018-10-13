@@ -1,6 +1,6 @@
 ## Weather and map project using react redux with charts and Googlemaps
 
-#I created an app that displays the weather information for the city you search for in charts and shows the location on Google Maps. 
+I created an app that displays the weather information for the city you search for in charts and shows the location on Google Maps. 
 
 #I used React, Redux to manage state, Bootstrap, the openweathermap and Google maps APIs, as well as Sparklines to display the charts for  the 5 day weather forecast for temperature, pressure and humidity.
 
